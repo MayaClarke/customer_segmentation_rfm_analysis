@@ -1,0 +1,1 @@
+In this project I explored a sales dataset and generated various analytics and insights from customers' past purchase behavior. I analyzed sales revenue and created a customer segmentation analysis using the RFM technique. 
