@@ -1,6 +1,6 @@
 /*
 
-Covid 19 Data Exploration 
+Sales Analysis RFM Segmentation
 
 Skills used: CTE's, Windows Functions, Aggregate Functions, XML Path Function 
 
